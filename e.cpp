@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    cout<<"e.cpp from login";
+    cout<<"e.cpp from register";
       
     return 0;
 }
