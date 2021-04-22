@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    cout<<"e.cpp from register";
+    cout<<"b.cpp from main";
       
     return 0;
 }
